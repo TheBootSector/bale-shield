@@ -1,0 +1,21 @@
+# Environment & Secrets
+.env
+.env.*
+*.secret
+*.token
+*.key
+credentials/
+secrets/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Node / JS (anticipating extension dev)
+node_modules/
+dist/
+build/
+*.log
